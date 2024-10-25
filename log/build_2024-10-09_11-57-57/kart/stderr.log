@@ -1,0 +1,5 @@
+  File "/home/yolo/ros2-package/install/kart/lib/python3.10/site-packages/kart/main.py", line 42
+    else
+        ^
+SyntaxError: expected ':'
+

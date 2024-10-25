@@ -1,0 +1,30 @@
+[0.481s] Invoking command in '/home/sg/ws/src/kart': PYTHONPATH=/home/sg/ws/build/kart/prefix_override:/home/sg/ws/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/sg/ws/build/kart/build install --record /home/sg/ws/build/kart/install.log --single-version-externally-managed install_data
+[0.657s] running egg_info
+[0.657s] writing ../../build/kart/kart.egg-info/PKG-INFO
+[0.657s] writing dependency_links to ../../build/kart/kart.egg-info/dependency_links.txt
+[0.657s] writing entry points to ../../build/kart/kart.egg-info/entry_points.txt
+[0.657s] writing requirements to ../../build/kart/kart.egg-info/requires.txt
+[0.657s] writing top-level names to ../../build/kart/kart.egg-info/top_level.txt
+[0.658s] reading manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[0.659s] writing manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[0.659s] running build
+[0.659s] running build_py
+[0.659s] copying kart/main.py -> /home/sg/ws/build/kart/build/lib/kart
+[0.660s] running install
+[0.660s] running install_lib
+[0.660s] copying /home/sg/ws/build/kart/build/lib/kart/main.py -> /home/sg/ws/install/kart/lib/python3.10/site-packages/kart
+[0.661s] byte-compiling /home/sg/ws/install/kart/lib/python3.10/site-packages/kart/main.py to main.cpython-310.pyc
+[0.661s]   File "/home/sg/ws/install/kart/lib/python3.10/site-packages/kart/main.py", line 11
+[0.661s]     'steering': self.create_publisher(String, 'steering_value', 10)
+[0.661s]                 
+[0.661s] SyntaxError: invalid syntax. Perhaps you forgot a comma?
+[0.661s] 
+[0.661s] running install_data
+[0.662s] running install_egg_info
+[0.662s] removing '/home/sg/ws/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info' (and everything under it)
+[0.662s] Copying ../../build/kart/kart.egg-info to /home/sg/ws/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info
+[0.663s] running install_scripts
+[0.678s] Installing main script to /home/sg/ws/install/kart/lib/kart
+[0.678s] Installing pump_dc script to /home/sg/ws/install/kart/lib/kart
+[0.678s] writing list of installed files to '/home/sg/ws/build/kart/install.log'
+[0.698s] Invoked command in '/home/sg/ws/src/kart' returned '0': PYTHONPATH=/home/sg/ws/build/kart/prefix_override:/home/sg/ws/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/sg/ws/build/kart/build install --record /home/sg/ws/build/kart/install.log --single-version-externally-managed install_data

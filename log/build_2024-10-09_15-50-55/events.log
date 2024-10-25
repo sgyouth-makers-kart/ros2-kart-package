@@ -1,0 +1,10 @@
+[0.000000] (-) TimerEvent: {}
+[0.000446] (-) JobUnselected: {'identifier': 'fortomp'}
+[0.000611] (-) JobUnselected: {'identifier': 'fortomp'}
+[0.000633] (-) JobUnselected: {'identifier': 'kart'}
+[0.000651] (-) JobUnselected: {'identifier': 'mjpg-streamer'}
+[0.000668] (-) JobUnselected: {'identifier': 'test-reproc'}
+[0.000685] (-) JobUnselected: {'identifier': 'test-reproc-cpp'}
+[0.000702] (-) JobUnselected: {'identifier': 'test-reproc-cpp'}
+[0.000719] (-) JobUnselected: {'identifier': 'xz'}
+[0.000918] (-) EventReactorShutdown: {}

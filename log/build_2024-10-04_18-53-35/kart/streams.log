@@ -1,0 +1,28 @@
+[0.452s] Invoking command in '/home/sg/ws/src/kart': PYTHONPATH=/home/sg/ws/build/kart/prefix_override:/home/sg/ws/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/sg/ws/build/kart/build install --record /home/sg/ws/build/kart/install.log --single-version-externally-managed install_data
+[0.618s] running egg_info
+[0.618s] writing ../../build/kart/kart.egg-info/PKG-INFO
+[0.618s] writing dependency_links to ../../build/kart/kart.egg-info/dependency_links.txt
+[0.619s] writing entry points to ../../build/kart/kart.egg-info/entry_points.txt
+[0.619s] writing requirements to ../../build/kart/kart.egg-info/requires.txt
+[0.619s] writing top-level names to ../../build/kart/kart.egg-info/top_level.txt
+[0.620s] reading manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[0.620s] writing manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[0.620s] running build
+[0.620s] running build_py
+[0.620s] copying kart/main.py -> /home/sg/ws/build/kart/build/lib/kart
+[0.620s] copying kart/wheel_DC.py -> /home/sg/ws/build/kart/build/lib/kart
+[0.621s] running install
+[0.621s] running install_lib
+[0.621s] copying /home/sg/ws/build/kart/build/lib/kart/main.py -> /home/sg/ws/install/kart/lib/python3.10/site-packages/kart
+[0.621s] copying /home/sg/ws/build/kart/build/lib/kart/wheel_DC.py -> /home/sg/ws/install/kart/lib/python3.10/site-packages/kart
+[0.622s] byte-compiling /home/sg/ws/install/kart/lib/python3.10/site-packages/kart/main.py to main.cpython-310.pyc
+[0.622s] byte-compiling /home/sg/ws/install/kart/lib/python3.10/site-packages/kart/wheel_DC.py to wheel_DC.cpython-310.pyc
+[0.623s] running install_data
+[0.623s] running install_egg_info
+[0.624s] removing '/home/sg/ws/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info' (and everything under it)
+[0.624s] Copying ../../build/kart/kart.egg-info to /home/sg/ws/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info
+[0.625s] running install_scripts
+[0.639s] Installing main script to /home/sg/ws/install/kart/lib/kart
+[0.639s] Installing pump_dc script to /home/sg/ws/install/kart/lib/kart
+[0.639s] writing list of installed files to '/home/sg/ws/build/kart/install.log'
+[0.655s] Invoked command in '/home/sg/ws/src/kart' returned '0': PYTHONPATH=/home/sg/ws/build/kart/prefix_override:/home/sg/ws/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/sg/ws/build/kart/build install --record /home/sg/ws/build/kart/install.log --single-version-externally-managed install_data

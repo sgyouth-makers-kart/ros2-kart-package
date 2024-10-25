@@ -1,0 +1,26 @@
+[0.862s] Invoking command in '/home/yolo/ros2-package/src/kart': PYTHONPATH=/home/yolo/ros2-package/build/kart/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yolo/ros2-package/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/yolo/ros2-package/build/kart/build install --record /home/yolo/ros2-package/build/kart/install.log --single-version-externally-managed install_data
+[1.074s] running egg_info
+[1.074s] writing ../../build/kart/kart.egg-info/PKG-INFO
+[1.074s] writing dependency_links to ../../build/kart/kart.egg-info/dependency_links.txt
+[1.080s] writing entry points to ../../build/kart/kart.egg-info/entry_points.txt
+[1.081s] writing requirements to ../../build/kart/kart.egg-info/requires.txt
+[1.082s] writing top-level names to ../../build/kart/kart.egg-info/top_level.txt
+[1.085s] reading manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[1.086s] writing manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[1.086s] running build
+[1.086s] running build_py
+[1.086s] running install
+[1.087s] running install_lib
+[1.088s] running install_data
+[1.089s] running install_egg_info
+[1.092s] removing '/home/yolo/ros2-package/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info' (and everything under it)
+[1.093s] Copying ../../build/kart/kart.egg-info to /home/yolo/ros2-package/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info
+[1.093s] running install_scripts
+[1.118s] Installing camera_servo script to /home/yolo/ros2-package/install/kart/lib/kart
+[1.118s] Installing main script to /home/yolo/ros2-package/install/kart/lib/kart
+[1.124s] Installing pump_dc script to /home/yolo/ros2-package/install/kart/lib/kart
+[1.126s] Installing steering_servo script to /home/yolo/ros2-package/install/kart/lib/kart
+[1.127s] Installing watergun_servo script to /home/yolo/ros2-package/install/kart/lib/kart
+[1.130s] Installing wheel_dc script to /home/yolo/ros2-package/install/kart/lib/kart
+[1.131s] writing list of installed files to '/home/yolo/ros2-package/build/kart/install.log'
+[1.184s] Invoked command in '/home/yolo/ros2-package/src/kart' returned '0': PYTHONPATH=/home/yolo/ros2-package/build/kart/prefix_override:/usr/local/lib/python3.10/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yolo/ros2-package/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/yolo/ros2-package/build/kart/build install --record /home/yolo/ros2-package/build/kart/install.log --single-version-externally-managed install_data

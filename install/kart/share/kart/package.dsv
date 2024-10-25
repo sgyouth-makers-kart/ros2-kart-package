@@ -1,0 +1,6 @@
+source;share/kart/hook/pythonpath.ps1
+source;share/kart/hook/pythonpath.dsv
+source;share/kart/hook/pythonpath.sh
+source;share/kart/hook/ament_prefix_path.ps1
+source;share/kart/hook/ament_prefix_path.dsv
+source;share/kart/hook/ament_prefix_path.sh

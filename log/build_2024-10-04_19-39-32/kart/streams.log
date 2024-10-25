@@ -1,0 +1,29 @@
+[0.452s] Invoking command in '/home/sg/ws/src/kart': PYTHONPATH=/home/sg/ws/build/kart/prefix_override:/home/sg/ws/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/sg/ws/build/kart/build install --record /home/sg/ws/build/kart/install.log --single-version-externally-managed install_data
+[0.619s] running egg_info
+[0.620s] writing ../../build/kart/kart.egg-info/PKG-INFO
+[0.620s] writing dependency_links to ../../build/kart/kart.egg-info/dependency_links.txt
+[0.620s] writing entry points to ../../build/kart/kart.egg-info/entry_points.txt
+[0.620s] writing requirements to ../../build/kart/kart.egg-info/requires.txt
+[0.620s] writing top-level names to ../../build/kart/kart.egg-info/top_level.txt
+[0.621s] reading manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[0.622s] writing manifest file '../../build/kart/kart.egg-info/SOURCES.txt'
+[0.622s] running build
+[0.622s] running build_py
+[0.622s] copying kart/steering_servo.py -> /home/sg/ws/build/kart/build/lib/kart
+[0.622s] running install
+[0.623s] running install_lib
+[0.623s] copying /home/sg/ws/build/kart/build/lib/kart/steering_servo.py -> /home/sg/ws/install/kart/lib/python3.10/site-packages/kart
+[0.624s] byte-compiling /home/sg/ws/install/kart/lib/python3.10/site-packages/kart/steering_servo.py to steering_servo.cpython-310.pyc
+[0.624s] running install_data
+[0.624s] running install_egg_info
+[0.625s] removing '/home/sg/ws/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info' (and everything under it)
+[0.625s] Copying ../../build/kart/kart.egg-info to /home/sg/ws/install/kart/lib/python3.10/site-packages/kart-0.0.0-py3.10.egg-info
+[0.626s] running install_scripts
+[0.640s] Installing camera_servo script to /home/sg/ws/install/kart/lib/kart
+[0.640s] Installing main script to /home/sg/ws/install/kart/lib/kart
+[0.640s] Installing pump_dc script to /home/sg/ws/install/kart/lib/kart
+[0.640s] Installing steering_servo script to /home/sg/ws/install/kart/lib/kart
+[0.640s] Installing watergun_servo script to /home/sg/ws/install/kart/lib/kart
+[0.640s] Installing wheel_dc script to /home/sg/ws/install/kart/lib/kart
+[0.641s] writing list of installed files to '/home/sg/ws/build/kart/install.log'
+[0.657s] Invoked command in '/home/sg/ws/src/kart' returned '0': PYTHONPATH=/home/sg/ws/build/kart/prefix_override:/home/sg/ws/install/kart/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/kart build --build-base /home/sg/ws/build/kart/build install --record /home/sg/ws/build/kart/install.log --single-version-externally-managed install_data

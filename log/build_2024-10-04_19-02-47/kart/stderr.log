@@ -1,0 +1,5 @@
+  File "/home/sg/ws/install/kart/lib/python3.10/site-packages/kart/main.py", line 11
+    'steering': self.create_publisher(String, 'steering_value', 10)
+                
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+

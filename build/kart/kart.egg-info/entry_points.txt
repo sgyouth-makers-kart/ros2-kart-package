@@ -1,0 +1,8 @@
+[console_scripts]
+camera_servo.py = kart.camera_servo:main
+main.py = kart.main:main
+pump_DC.py = kart.pump_DC:main
+steering_servo.py = kart.steering_servo:main
+watergun_servo.py = kart.watergun_servo:main
+wheel_DC.py = kart.wheel_DC:main
+
